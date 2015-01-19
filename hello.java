@@ -8,3 +8,7 @@ public class hello {
 		System.out.println("Hello World");
 	}
 }
+
+/*CECI EST UN COMMENTAIRE POUR
+		TESTER GIT
+*/
